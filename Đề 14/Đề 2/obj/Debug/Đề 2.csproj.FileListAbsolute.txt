@@ -1,0 +1,16 @@
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\bin\Debug\Đề 2.exe.config
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\bin\Debug\Đề 2.exe
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\bin\Debug\Đề 2.pdb
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\obj\Debug\Đề 2.csproj.AssemblyReference.cache
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\obj\Debug\Đề 2.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\obj\Debug\Đề 2.csproj.CoreCompileInputs.cache
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\obj\Debug\Đề 2.exe
+D:\Lập trình hệ thống\Ktra Socket\Đề 2\Đề 2\obj\Debug\Đề 2.pdb
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\obj\Debug\Đề 2.csproj.AssemblyReference.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\obj\Debug\Đề 2.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\obj\Debug\Đề 2.csproj.CoreCompileInputs.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\obj\Debug\Đề 2.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\obj\Debug\Đề 2.pdb
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\bin\Debug\Đề 2.exe.config
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\bin\Debug\Đề 2.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề 2\Đề 2\bin\Debug\Đề 2.pdb
