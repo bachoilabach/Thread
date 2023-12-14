@@ -1,0 +1,8 @@
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\bin\Debug\Đề thi mới.exe.config
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\bin\Debug\Đề thi mới.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\bin\Debug\Đề thi mới.pdb
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\obj\Debug\Đề thi mới.csproj.AssemblyReference.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\obj\Debug\Đề thi mới.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\obj\Debug\Đề thi mới.csproj.CoreCompileInputs.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\obj\Debug\Đề thi mới.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề thi mới\Đề thi mới\obj\Debug\Đề thi mới.pdb
