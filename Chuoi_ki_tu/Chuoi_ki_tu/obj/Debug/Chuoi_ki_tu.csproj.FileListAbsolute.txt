@@ -1,0 +1,8 @@
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\bin\Debug\Chuoi_ki_tu.exe.config
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\bin\Debug\Chuoi_ki_tu.exe
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\bin\Debug\Chuoi_ki_tu.pdb
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\obj\Debug\Chuoi_ki_tu.csproj.AssemblyReference.cache
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\obj\Debug\Chuoi_ki_tu.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\obj\Debug\Chuoi_ki_tu.csproj.CoreCompileInputs.cache
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\obj\Debug\Chuoi_ki_tu.exe
+D:\Lập trình hệ thống\Ktra Thread\Chuoi_ki_tu\Chuoi_ki_tu\obj\Debug\Chuoi_ki_tu.pdb

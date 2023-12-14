@@ -1,0 +1,8 @@
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\bin\Debug\Đề 01.exe.config
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\bin\Debug\Đề 01.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\bin\Debug\Đề 01.pdb
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\obj\Debug\Đề 01.csproj.AssemblyReference.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\obj\Debug\Đề 01.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\obj\Debug\Đề 01.csproj.CoreCompileInputs.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\obj\Debug\Đề 01.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề 01\Đề 01\obj\Debug\Đề 01.pdb
