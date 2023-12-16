@@ -11,50 +11,46 @@ namespace Đề_18
     internal class Program
     {
         static Queue<int> Queue = new Queue<int>();
-        static bool done  = false;
-        static bool pause = false;
+        static bool done = false;
+
         static int a = 0;
         static void CT1()
         {
             do
             {
-                if(!done && !pause)
+                try
                 {
-                    try
+                    Console.WriteLine("Nhap mot so nguyen: ");
+                    a = int.Parse(Console.ReadLine());
+                    if (a >= 0)
                     {
-                        Console.WriteLine("Nhap mot so nguyen: ");
-                        a = int.Parse(Console.ReadLine());
-                        if(a >= 0)
-                        {
-                            Queue.Enqueue(a);
-                            done = true;
-                        }
-                        else
-                        {
-                            pause = true;
-                        }
+                        Queue.Enqueue(a);
                     }
-                    catch (FormatException)
+                    else
                     {
-                        Console.WriteLine("Nhap lai!");
+                        done = true;
+                        break;
                     }
                 }
-            }while (a>=0);
+                catch (FormatException)
+                {
+                    Console.WriteLine("Nhap lai!");
+                }
+
+            } while (true);
         }
         static void CT2()
         {
-            while (!pause)
+            while (!done)
             {
-                if (done)
-                {
-                    Console.WriteLine("Mang so nguyen vua nhap la: ");
-                    foreach (var item in Queue)
-                    {
-                        Console.WriteLine(item.ToString() + " ");
-                    }
-                    done = false;
-                }
-            }   
+                Thread.Sleep(1000);
+            }
+            Console.WriteLine("Mang so nguyen vua nhap la: ");
+            foreach (var item in Queue)
+            {
+                Console.WriteLine(item.ToString() + " ");
+            }
+            done = false;
         }
         static void Main(string[] args)
         {
