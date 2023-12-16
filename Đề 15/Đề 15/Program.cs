@@ -15,31 +15,38 @@ namespace Đề_15
         static int[] b;
 
         static bool done = false;
-
+        static bool pause = false;
         static void CT1()
         {
 
-            try
+            while (true)
             {
-                Console.WriteLine("Nhap so phan tu cua mang a: ");
-                int n = int.Parse(Console.ReadLine());
-                if (n <= 0 || n > 10)
+                try
                 {
-                    return;
-                }
-                a = new int[n];
+                    Console.WriteLine("Nhap so phan tu cua mang a: ");
+                    int n = int.Parse(Console.ReadLine());
+                    if (n <= 0 || n > 10)
+                    {
+                        pause = true;
+                        done = true;
+                        break;
+                    }
+                    a = new int[n];
 
-                Console.WriteLine("Nhap mang: ");
-                for (int i = 0; i < n; i++)
-                {
-                    a[i] = int.Parse(Console.ReadLine());
+                    Console.WriteLine("Nhap mang: ");
+                    for (int i = 0; i < n; i++)
+                    {
+                        a[i] = int.Parse(Console.ReadLine());
+                    }
+                    done = true;
+                    break;
                 }
-                done = true;
+                catch (FormatException)
+                {
+                    Console.WriteLine("Nhap lai!");
+                }
             }
-            catch (FormatException)
-            {
-                Console.WriteLine("Nhap lai!");
-            }
+            Console.WriteLine("Het CT1");
 
         }
 
@@ -47,26 +54,30 @@ namespace Đề_15
         {
             while (!done)
             {
-                Thread.Sleep(1000);
+                Thread.Sleep(10);
             }
-            try
+            if (!pause)
             {
-                Random rd = new Random();
-                int n = rd.Next(1, 11);
-                b = new int[n];
-
-                Console.WriteLine("So phan tu cua b la: " + n);
-                Console.WriteLine("Mang b: ");
-                for (int i = 0; i < n; i++)
+                try
                 {
-                    b[i] = rd.Next();
-                    Console.WriteLine(b[i] + " ");
+                    Random rd = new Random();
+                    int n = rd.Next(1, 11);
+                    b = new int[n];
+
+                    Console.WriteLine("So phan tu cua b la: " + n);
+                    Console.WriteLine("Mang b: ");
+                    for (int i = 0; i < n; i++)
+                    {
+                        b[i] = rd.Next();
+                        Console.WriteLine(b[i] + " ");
+                    }
+                }
+                catch (Exception ex)
+                {
+                    Console.WriteLine(ex.Message);
                 }
             }
-            catch (Exception ex)
-            {
-                Console.WriteLine(ex.Message);
-            }
+            Console.WriteLine("Het CT2");
         }
 
         static void Main(string[] args)
