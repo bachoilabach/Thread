@@ -14,3 +14,11 @@ D:\Lập trình hệ thống\Ktra Thread\Đề 1\Đề 1\obj\Debug\Đề 1.cspro
 D:\Lập trình hệ thống\Ktra Thread\Đề 1\Đề 1\obj\Debug\Đề 1.csproj.CoreCompileInputs.cache
 D:\Lập trình hệ thống\Ktra Thread\Đề 1\Đề 1\obj\Debug\Đề 1.exe
 D:\Lập trình hệ thống\Ktra Thread\Đề 1\Đề 1\obj\Debug\Đề 1.pdb
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\bin\Debug\Đề 1.exe.config
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\bin\Debug\Đề 1.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\bin\Debug\Đề 1.pdb
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\obj\Debug\Đề 1.csproj.AssemblyReference.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\obj\Debug\Đề 1.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\obj\Debug\Đề 1.csproj.CoreCompileInputs.cache
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\obj\Debug\Đề 1.exe
+D:\Lập trình hệ thống\Ktra Thread\Đề 16\Đề 1\obj\Debug\Đề 1.pdb

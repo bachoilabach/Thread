@@ -13,7 +13,7 @@ namespace Đề_1
     {
         static void de1()
         {
-            List<byte> kq =new List<byte>();
+            List<string> kq =new List<string>();
             bool done = false;
 
             Thread t1 = new Thread(() =>
@@ -28,7 +28,7 @@ namespace Đề_1
                         char rs = (char)sr.Read();
                         if (char.IsWhiteSpace(rs)) continue;
 
-                        var item = Convert.ToByte(rs);
+                        var item = Convert.ToInt32(rs).ToString("X");
 
                         kq.Add(item);
                         Console.Write(item+ " ");

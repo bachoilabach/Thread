@@ -1,0 +1,8 @@
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\bin\Debug\Clinet.exe.config
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\bin\Debug\Clinet.exe
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\bin\Debug\Clinet.pdb
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\obj\Debug\Clinet.csproj.AssemblyReference.cache
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\obj\Debug\Clinet.csproj.SuggestedBindingRedirects.cache
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\obj\Debug\Clinet.csproj.CoreCompileInputs.cache
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\obj\Debug\Clinet.exe
+D:\Lập trình hệ thống\Ktra Socket\Câu 17\Clinet\Clinet\obj\Debug\Clinet.pdb
